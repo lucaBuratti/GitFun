@@ -14,3 +14,5 @@ Some useless modification
 
 Modification during branch
 
+
+Conflict modification2
