@@ -17,3 +17,5 @@ Modification during branch
 conflict modification1
 
 Conflict modification2
+
+New brach new modification
